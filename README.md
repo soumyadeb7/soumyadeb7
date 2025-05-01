@@ -1,9 +1,9 @@
 <p align="center">
   <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="250" />
 </p>
-
-<h1 align="center">Hey there! I'm @soumyadeb7 ⚡</h1>
-
+<h1 align="center">
+  <code style="font-family: 'Courier New', monospace; font-size: 45px; color: #FF5733; text-shadow: 2px 2px 5px rgba(255, 87, 51, 0.6);">⚡ soumyadeb7 ⚡</code>
+</h1>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=1000&color=00FEEF&center=true&vCenter=true&width=440&lines=Techie+by+day+%2C+Coder+by+night!;Debugging+like+Doctor+Strange!;Deploying+like+Tony+Stark!" />
 </p>
